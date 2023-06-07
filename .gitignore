@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/*/.vs/*
+/*/obj
+/Domain/bin/Debug/net6.0
+/EntityFrameworkDay2/bin/Debug/net6.0
