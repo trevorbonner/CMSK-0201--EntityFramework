@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityFrameworkDay5", "EntityFrameworkDay5.csproj", "{51DCB384-8190-4363-985E-E874893EB80D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "..\Domain\Domain.csproj", "{BBE7D3A1-81C9-4F56-A724-9CA3A554002C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51DCB384-8190-4363-985E-E874893EB80D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51DCB384-8190-4363-985E-E874893EB80D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51DCB384-8190-4363-985E-E874893EB80D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51DCB384-8190-4363-985E-E874893EB80D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBE7D3A1-81C9-4F56-A724-9CA3A554002C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBE7D3A1-81C9-4F56-A724-9CA3A554002C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBE7D3A1-81C9-4F56-A724-9CA3A554002C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBE7D3A1-81C9-4F56-A724-9CA3A554002C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B111CB27-9624-4D07-8816-B8534B25953B}
+	EndGlobalSection
+EndGlobal
