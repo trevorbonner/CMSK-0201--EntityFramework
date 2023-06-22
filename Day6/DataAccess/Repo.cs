@@ -1,13 +1,9 @@
 ﻿using Core.Entities;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using Core.Interfaces;
 
 namespace Day6
 {
-    public class Repo<T> where T : Entity
+    public class Repo<T>: IRepo<T> where T : Entity
     {
         private DataContext context;
 
